@@ -6,4 +6,8 @@ def main(s):
     Returns:
         str: answer
     """
-    return
+    return s.count(' ')+1
+s='python code'
+print(main(s))
+s='it markaz 103'
+print(main(s))

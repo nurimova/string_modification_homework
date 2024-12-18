@@ -8,4 +8,4 @@ def main(s, l):
     Returns:
         str: answer
     """
-    return
+    return s.lstrip('l')

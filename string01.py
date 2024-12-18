@@ -9,4 +9,4 @@ def main(s, k, l):
     Returns:
         str: answer
     """
-    return
+    return s.replace('k','l')

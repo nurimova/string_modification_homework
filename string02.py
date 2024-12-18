@@ -10,4 +10,4 @@ def main(s, k, l, n):
     Returns:
         str: answer
     """
-    return
+    return s.replace('k','l',n)
